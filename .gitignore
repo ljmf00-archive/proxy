@@ -115,9 +115,3 @@ config.guess
 .dirstamp
 .deps/
 *.la
-
-# Test Output
-src/Examples/bin/test_gui
-src/Examples/bin/test_shell
-src/Examples/bin/test_string
-
